@@ -21,7 +21,11 @@ Programming Language - Prolog
 Installation :-
 Install SWI-Prolog 
 Upload the program file in github
+Add the required git commands
 Run the application
+
+<img width="516" height="239" alt="Screenshot 2025-11-26 022634" src="https://github.com/user-attachments/assets/6cfe87e6-fcfc-44d9-b461-65003750f0dd" />
+
 
 Project Structure :-
 Daily-Expense-CRUD-Manager | ---README.md | ---Expense_Manager.pl 
@@ -35,3 +39,6 @@ Instructions for testing :-
   4.Description of expense
 3.Choose a function to perform
 4.View the result
+
+<img width="1067" height="524" alt="Screenshot 2025-11-24 225626" src="https://github.com/user-attachments/assets/45912455-88bb-42d3-87fc-bc0d8b17ddf4" />
+<img width="882" height="516" alt="Screenshot 2025-11-24 225728" src="https://github.com/user-attachments/assets/e134aa8b-cd86-45b9-98de-164e8de3fb52" />
